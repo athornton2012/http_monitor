@@ -1,0 +1,54 @@
+Section with most hits: api with 58 hits.
+Section with most hits: api with 59 hits.
+Section with most hits: api with 63 hits.
+Section with most hits: api with 60 hits.
+Section with most hits: api with 60 hits.
+Section with most hits: api with 60 hits.
+Section with most hits: api with 147 hits.
+Section with most hits: api with 152 hits.
+HIGH TRAFFIC ALERT
+Section with most hits: api with 152 hits.
+Section with most hits: api with 152 hits.
+Section with most hits: api with 145 hits.
+Section with most hits: api with 151 hits.
+Section with most hits: api with 20 hits.
+Section with most hits: api with 20 hits.
+Section with most hits: api with 20 hits.
+Section with most hits: api with 19 hits.
+Section with most hits: api with 21 hits.
+NORMAL TRAFFIC RECOVERED BETWEEN 1549574042 and 1549574044
+Section with most hits: api with 21 hits.
+Section with most hits: api with 18 hits.
+Section with most hits: api with 21 hits.
+Section with most hits: api with 20 hits.
+Section with most hits: api with 20 hits.
+Section with most hits: api with 20 hits.
+Section with most hits: api with 21 hits.
+Section with most hits: api with 20 hits.
+Section with most hits: api with 19 hits.
+Section with most hits: api with 24 hits.
+Section with most hits: api with 249 hits.
+Section with most hits: api with 249 hits.
+HIGH TRAFFIC ALERT
+Section with most hits: api with 249 hits.
+Section with most hits: api with 251 hits.
+Section with most hits: api with 249 hits.
+Section with most hits: api with 247 hits.
+Section with most hits: api with 250 hits.
+Section with most hits: api with 254 hits.
+Section with most hits: api with 242 hits.
+Section with most hits: api with 16 hits.
+Section with most hits: report with 11 hits.
+Section with most hits: api with 11 hits.
+Section with most hits: report with 10 hits.
+Section with most hits: api with 12 hits.
+Section with most hits: report with 10 hits.
+Section with most hits: report with 10 hits.
+NORMAL TRAFFIC RECOVERED BETWEEN 1549574301 and 1549574303
+Section with most hits: report with 10 hits.
+Section with most hits: api with 10 hits.
+Section with most hits: report with 12 hits.
+Section with most hits: api with 10 hits.
+Section with most hits: api with 10 hits.
+Section with most hits: report with 1 hits.
+Finished
